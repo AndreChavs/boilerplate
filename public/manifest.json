@@ -1,6 +1,8 @@
-{
-  "name": "Next React Application - Boilerplate",
-  "short_name": "Next Application",
+{    
+  "name": "Next-PWA",
+  "short_name": "Next-PWA",
+  "description": "A Demo for Next-PWA",
+  "scope": "/",    
   "icons": [
     {
       "src": "favicon.ico",
